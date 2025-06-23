@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "SamuraiJack:lib"
+
+    - path: "./test"
+      component: "SamuraiJack:test:SamuraiJack-test"
